@@ -8,6 +8,8 @@
    - Navigate between different nfts with scrolling and/or clicking
 
  - What I Learned:
+   - First project with Javascript
+   - First project with JSX
    - First project with React
    - First project with Thirdweb
    - First project with opensea
