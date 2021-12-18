@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nft-project/static/css/main.f2f96743.chunk.css",
+    "main.js": "/nft-project/static/js/main.38e7000a.chunk.js",
+    "main.js.map": "/nft-project/static/js/main.38e7000a.chunk.js.map",
+    "runtime-main.js": "/nft-project/static/js/runtime-main.5778a550.js",
+    "runtime-main.js.map": "/nft-project/static/js/runtime-main.5778a550.js.map",
+    "static/js/2.42981745.chunk.js": "/nft-project/static/js/2.42981745.chunk.js",
+    "static/js/2.42981745.chunk.js.map": "/nft-project/static/js/2.42981745.chunk.js.map",
+    "static/js/3.54d12d3f.chunk.js": "/nft-project/static/js/3.54d12d3f.chunk.js",
+    "static/js/3.54d12d3f.chunk.js.map": "/nft-project/static/js/3.54d12d3f.chunk.js.map",
+    "index.html": "/nft-project/index.html",
+    "static/css/main.f2f96743.chunk.css.map": "/nft-project/static/css/main.f2f96743.chunk.css.map",
+    "static/js/2.42981745.chunk.js.LICENSE.txt": "/nft-project/static/js/2.42981745.chunk.js.LICENSE.txt",
+    "static/media/cryptopunk-logo.8bee49d5.png": "/nft-project/static/media/cryptopunk-logo.8bee49d5.png",
+    "static/media/weth.4101f1da.png": "/nft-project/static/media/weth.4101f1da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5778a550.js",
+    "static/js/2.42981745.chunk.js",
+    "static/css/main.f2f96743.chunk.css",
+    "static/js/main.38e7000a.chunk.js"
+  ]
+}
